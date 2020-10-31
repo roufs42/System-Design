@@ -24,7 +24,7 @@ b) Learn more about how large-scale systems work and thought process of designin
 
 ## <a name='start'> Starting point </a>
 
-For a very broad overview please go through these lectures, really useful:
+For a very broad overview please go through these resources, really useful:
 * [Gaurav Sen's system design series](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 Starts from simple stuff like load balancing and message queues, then moves to building full systems like Whatsapp and Tinder.
 
